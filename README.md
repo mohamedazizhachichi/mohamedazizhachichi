@@ -12,13 +12,6 @@ I enjoy building practical projects, exploring security, and learning how to mak
 ### ⚡ Tech & Interests
 
 AWS · Python · FastAPI · Docker · SIEM · DevSecOps · Cloud Security
-
-### 🤝 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-aziz-hachichi-15a789267/) · [Email](mailto:azizhachichi88@gmail.com)
-
-*Thanks for stopping by! Feel free to explore my projects.* 😊
-
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate
@@ -26,5 +19,13 @@ AWS · Python · FastAPI · Docker · SIEM · DevSecOps · Cloud Security
 - AWS Certified AI Practitioner
 - INE ICCA
 - eJPT
+
+### 🤝 Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-aziz-hachichi-15a789267/) · [Email](mailto:azizhachichi88@gmail.com)
+
+*Thanks for stopping by! Feel free to explore my projects.* 😊
+
+
 
 
