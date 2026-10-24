@@ -2,8 +2,7 @@
 
 I'm Mohamed Aziz, a Cybersecurity & Cloud Engineering student at TEK-UP University 🇹🇳
 
-I enjoy building practical projects, exploring security, and learning how to make systems more secure. My philosophy is simple: **Build, don't chase.** 🚀
-
+I enjoy building practical projects, exploring security, and learning how to make systems more secure. 
 ### 🛠️ Featured Projects
 
 - **[SecuMerge](https://github.com/mohamedazizhachichi/secumerge)** — Security findings management & DevSecOps.
