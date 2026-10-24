@@ -27,8 +27,4 @@ AWS · Python · FastAPI · Docker · SIEM · DevSecOps · Cloud Security
 - INE ICCA
 - eJPT
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-hachichi-15a789267/): linkedin.com/in/mohamed-aziz-hachichi&#x20;
-- [Email](mailto\:azizhachichi88@gmail.com): azizhachichi88\@gmail.com
 
